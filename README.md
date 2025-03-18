@@ -6,7 +6,7 @@ The script is simple and can be run from within your Coding IDE.
 
 Step 1: clone repository
 
-Step 2: save html files you want to be converted in the /to_convert folder.
+Step 2: save html files you want to be converted in the /to_convert folder and delete the .txt file in this folder.
 
 Step 3: run script
 
