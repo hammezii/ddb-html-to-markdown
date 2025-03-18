@@ -11,6 +11,10 @@ Step 4: markdown files will be saved in /markdown_output
 
 ## Python libraries required
 1. Beautiful Soup
+```
+pip install BeautifulSoup4
+```
+
 2. html2text
 3. os
 
