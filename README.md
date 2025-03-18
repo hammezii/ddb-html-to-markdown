@@ -13,6 +13,8 @@ Step 3: run script
 Step 4: markdown files will be saved in /markdown_output
 
 ## Python libraries required
+The script requires the following libraries to work. Note: os is usually installed along with python, so does not need to be installed separately.
+
 1. Beautiful Soup
 2. html2text
 3. os
